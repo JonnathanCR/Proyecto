@@ -1,3 +1,7 @@
+npm create ol-app my-app
+cd my-app
+npm start
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
